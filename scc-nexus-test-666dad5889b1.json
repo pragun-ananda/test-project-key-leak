@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scc-nexus-test",
+  "private_key_id": "666dad5889b124cb08872dbfc1bc4d0a3d3d4db6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC55sT37/l7mYS5\nPpZ/lLQFyxzcaoz/+7F+7g+K59QKTzp/ZmW6F53dmknahvCpWK4fM9TcGX77MjbK\neWe+fnn74A7iN7GAXO+nSBxzy0aVwBWtBngf6P3ezjjAt7NJL+fG9UwclqehsPHy\nXvu6gZ2cArcnAGlTrISBPMEaq3q7EK2cvRmAgerHYmhdVW/H8Gv4OcKonRcnBmlE\nNI2kKQrHXU4wzQXmTGo34vv01vC4gNRlX4Fm56JNx6MX7J77iYdtDkDP0BuhSvuZ\ngfZUuCZ6bvACZDW2XWXNv+J8vaHW2pGkM+1F+UC4zZNbb89DBO52NoNb2tY4sIGc\n01NT7IxjAgMBAAECggEANE3IZ1XeZLcpz5DbeSPWjra59Q4Jg9BF/Udvmg5l60yl\nUcj2oCga44mQc+p5dbwcqWzE2/RUdMqI/eiwlrkxCvvcVCuFRm9fgjpYvv+XaXS0\n5IyoaZn9K53r+9TznYjb9m93rad5nJWTTTUKMExdktJ0w4VrHP6x/UahsiZDDrRE\nxHhJycY0ug2hhK4bDjuU1rmO2UYAw4zAUtFu/cIGqnHl3kN9VKIr3iq9WYDjpxgI\n3AHSXVxj7c4T9G+17/Mdah4BlB62+OQ2pXkd+sAHSuugTkX4Q72RHyFqCIOlHCg0\n/Hs2xAStDxzpY0Nwt2JlTg6I8oqK7rhSv4qnTsOPsQKBgQDgymX4qaYo78OFYG3e\nNgGlYpgyMSWhcSke0jCh4PJVtSsk1+aKq0VsSQO73OGGJr5QJWEehg2nIBnDGJZm\ngNTpopNWNIduIuMMrOAdKToKSem3da+HisMnGfN2EU3BBEgfOwnXvePizWC7YGVL\ncO2XcahMNc484J/4DgqCT61VSQKBgQDTtifkg5zCoUoCGMYyMuP5KIOmqz2ewa+k\nqsZgpWQ2QGgb4L8c8fqIB1q1zzSHbwNzb7PFQU3rUhT6Yg3P99oKoqDZxyNfA+Fo\nUCrKPzF/7h2+QBB8OJmUlzDa9kcUWO7sd0uN2AFcCM2lrYf+zd52ioxspCInV4wf\nbup8gFAQSwKBgAiSTy8bMPXQprD4S1g00P1AdDM9woSUbw/4zdfuXu87uEhwXx8c\nhsopQpYwRv05jvo5YqmqTOz5gWH6FwoTkYrTIzEfUaa2d9fs46LZBpiL1vii6S2O\n8gAUsj7nTAK3KhTeyHJMkFr+n9ilRVeKF9U1hUhaqOGTYyYvSuFLLn3ZAoGAddHR\nsaJtAwOvpCsVYapgpLCfU4nI6SjxDrrbW72vX2HIjnss4Hbp7fnpyXRez2BAk2V+\nrjABpQwxEIaxGSPd/D01Nv1T+fS25M54gcVZTtC9TLtqcTcugTsCvViBhhlYHdDm\nAzJKz2U2zRUdsffv7hh8vZk6SJq4KGYZqN/frrECgYEAjGN9z4fz653G4/ZltJlT\nNKMH2dWvDpK/dNya5blHtZRwY+wP+tdUaE/VgAWtmxe9bR27a5WFI6kifH1PbSGq\nLzTDsfkYujgR/ZoI2A6rflbfHnM7CU6zvEn3DaDRyei3ctz82Kl3Rf1hEG4X7OlX\nxXtH7cfpqJLdQCGDT/nLDjg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-key-leak-account@scc-nexus-test.iam.gserviceaccount.com",
+  "client_id": "107623000599485712870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-key-leak-account%40scc-nexus-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
